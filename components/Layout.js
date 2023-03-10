@@ -12,6 +12,7 @@ const Layout = (props) => {
             rel="stylesheet"
             href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css"
           ></link>
+        <title>CrowdFunding</title>
         </Head>
         <Header />
         {props.children}
